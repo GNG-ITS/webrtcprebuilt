@@ -35,8 +35,8 @@
                             <goal>install-file</goal>
                         </goals>
                         <configuration>
-                            <file>${project.basedir}/webrtcprebuilt.aar</file>
-                            <pomFile>${project.basedir}/webrtcprebuilt.pom</pomFile>
+                            <file>${project.basedir}/google-webrtc-1.0.32006.aar</file>
+                            <pomFile>${project.basedir}/google-webrtc-1.0.32006.pom</pomFile>
                             <packaging>aar</packaging>
                         </configuration>
                     </execution>
