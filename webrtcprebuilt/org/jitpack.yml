@@ -1,3 +1,0 @@
-install:
-  - FILE="-Dfile=org/webrtc/google-webrtc/1.0.32006/google-webrtc-1.0.32006.aar"
-  - mvn install:install-file $FILE -DgroupId=org.webrtc -DartifactId=google-webrtc -Dversion=1.0.32006 -Dpackaging=aar -DgeneratePom=true
